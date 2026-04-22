@@ -57,8 +57,8 @@
 
 | Project | Description | Tech Stack | Live Demo |
 |---|---|---|---|
-| **name 1** | descrioption 1 |  | [🔗 View Demo](link) |
-| **name 2** | descrioption 3 |  | [🔗 View Demo](link) |
+| **Void Piano** | Web Piano Practice Tool |  | [🔗 View Demo](https://guitarsetgo.itch.io/viodpiano) |
+
 
 </div>
 
