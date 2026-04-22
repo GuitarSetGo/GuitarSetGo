@@ -53,13 +53,9 @@
 
 ## 🚀 My Projects
 
-<div align="center">
-
 | Project | Description | Tech Stack | Live Demo |
 |---|---|---|---|
-| **Void Piano** | Web Piano Practice Tool |  | [🔗 View Demo](https://guitarsetgo.itch.io/viodpiano) |
-
-</div>
+| **Void Piano** | Web Piano Practice Tool | HTML, CSS, JS | [🔗 View Demo](https://guitarsetgo.itch.io/viodpiano) |
 
 ---
 
@@ -69,7 +65,7 @@
 
 [![Spotify Artist](https://img.shields.io/badge/Listen%20to%20my%20music-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/intl-es/artist/32k7vcjypkoIOQl9ZjsCYF)
 
-> 🎧 **Dash Gonzalez** — Hit play and code along with me!
+<p>🎧 <strong>Dash Gonzalez</strong> — Hit play and code along with me!</p>
 
 </div>
 
