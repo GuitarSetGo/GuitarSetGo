@@ -30,37 +30,21 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-<img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
-<img src="https://img.shields.io/badge/Claude%20Sonnet-D4A27F?style=for-the-badge&logo=anthropic&logoColor=000000" alt="Claude Sonnet" />
-<img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
-<img src="https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="NotebookLM" />
-<img src="https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google AI Studio" />
-<img src="https://img.shields.io/badge/Glean-FF6B35?style=for-the-badge&logoColor=white" alt="Glean" />
-<img src="https://img.shields.io/badge/Agentspace-0F9D58?style=for-the-badge&logo=google&logoColor=white" alt="Agentspace" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white" alt="Cursor" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
-<img src="https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=000000" alt="ServiceNow" />
-<img src="https://img.shields.io/badge/Workato-E74C3C?style=for-the-badge&logoColor=white" alt="Workato" />
-<img src="https://img.shields.io/badge/Keeper-003366?style=for-the-badge&logoColor=white" alt="Keeper" />
-<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets" />
-<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
-<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+<img src="https://skillicons.dev/icons?i=unity,visualstudio,vscode,cs,html,js,css,nodejs,react,postman,gcp,notion,figma,discord&perline=7" />
+
+<img src="https://img.shields.io/badge/ServiceNow-62D84E?style=flat-square&logo=servicenow&logoColor=000000" alt="ServiceNow" />
+<img src="https://img.shields.io/badge/Glean-FF6B35?style=flat-square&logoColor=white" alt="Glean" />
+<img src="https://img.shields.io/badge/Agentspace-0F9D58?style=flat-square&logo=google&logoColor=white" alt="Agentspace" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logoColor=white" alt="Cursor" />
+<img src="https://img.shields.io/badge/Claude-D4A27F?style=flat-square&logo=anthropic&logoColor=000000" alt="Claude" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+<img src="https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT" />
+<img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+<img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white" alt="DeepSeek" />
+<img src="https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google AI Studio" />
+<img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=flat-square&logo=perplexity&logoColor=white" alt="Perplexity" />
 
 </div>
-
 ---
 
 ## 🚀 My Projects
