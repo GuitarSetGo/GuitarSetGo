@@ -65,31 +65,8 @@
 
 ## 🚀 My Projects
 
-<!-- ── ADD MORE PROJECTS: copy one <td> block and paste it next to the others ── -->
 <div align="center">
-<table>
-  <tr>
 
-    <td align="center" width="250">
-      <a href="https://guitarsetgo.itch.io/viodpiano"><strong>🎹 Void Piano</strong></a>
-      <br>
-      <sub>Web Piano Practice Tool</sub>
-      <br><br>
-      <a href="https://guitarsetgo.itch.io/viodpiano"><img src="https://img.shields.io/badge/View%20Demo-238636?style=flat-square&logoColor=white"/></a>
-    </td>
-
-    <!-- PASTE NEW PROJECT HERE ↓
-    <td align="center" width="250">
-      <a href="URL"><strong>EMOJI Name</strong></a>
-      <br>
-      <sub>Short description</sub>
-      <br><br>
-      <a href="URL"><img src="https://img.shields.io/badge/View%20Demo-238636?style=flat-square&logoColor=white"/></a>
-    </td>
-    -->
-
-  </tr>
-</table>
 </div>
 
 ---
