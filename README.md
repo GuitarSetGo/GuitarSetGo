@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Joshua%20Gonzalez&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Multi-Stack%20Dev%20%7C%20%F0%9F%92%BB%20%E2%98%81%EF%B8%8F%20%F0%9F%8E%AE%20%7C%20%F0%9F%8E%B8%20%F0%9F%8E%BC%20&descAlignY=55&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Joshua%20Gonzalez&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Multi-Stack%20Dev%20%7C%20%F0%9F%92%BB%20%E2%98%81%EF%B8%8F%20%F0%9F%8E%AE%20%7C%20%F0%9F%8E%B8%20%F0%9F%8E%BC&descAlignY=55&descAlign=50" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Multi-Stack%20Dev%20%7C%20%F0%9F%92%BB%20%E2%98%81%EF%B8%8F%20%F0%9F%8E%AE%20%7C%20%F0%9F%8E%B8%20%F0%9F%8E%BC%20;Welcome%20to%20my%20GitHub!%20%F0%9F%9A%80;Always%20building%2C%20always%20learning%20%E2%9C%A8;Let's%20create%20something%20amazing!%20%F0%9F%92%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Multi-Stack%20Dev%20%7C%20%F0%9F%92%BB%20%E2%98%81%EF%B8%8F%20%F0%9F%8E%AE%20%7C%20%F0%9F%8E%B8%20%F0%9F%8E%BC;Welcome%20to%20my%20GitHub!%20%F0%9F%9A%80;Always%20building%2C%20always%20learning%20%E2%9C%A8;Let's%20create%20something%20amazing!%20%F0%9F%92%A1)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,7 +12,7 @@
 
 🚀 Passionate about software development, AI, and open source. I love building things that matter and learning something new every day.
 
-- 📍 **Location:** Guatemala 🇬🇹
+- 📍 **Location:** Guatemala
 - 💬 **Ask me about:** web development, AI, automation & technology
 - ⚡ **Fun fact:** The best code is the one that works at 3am ☕
 
@@ -20,7 +20,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josh4dev) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/guitarsetgo) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/guitarsetgo) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@GuitarSetGo) [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@guitarsetgo) [![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://itch.io/profile/guitarsetgo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josh4dev) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/GuitarSetGo) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/GuitarSetGo) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@GuitarSetGo) [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@GuitarSetGo) [![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://itch.io/profile/guitarsetgo)
 
 </div>
 
@@ -28,47 +28,67 @@
 
 ## 🛠️ Technologies I Know
 
+**💻 Programming Languages**
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,cs,html,css,nextjs,nodejs,react,vscode,visualstudio,git,github,figma,notion,trello,unity&perline=10" />
-
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/Claude-D4A27F?style=for-the-badge&logo=anthropic&logoColor=000000" alt="Claude" />
-<img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-<img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Copilot" />
-<img src="https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="NotebookLM" />
-<img src="https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="AI Studio" />
-<img src="https://img.shields.io/badge/Agentspace-0F9D58?style=for-the-badge&logo=google&logoColor=white" alt="Agentspace" />
-<img src="https://img.shields.io/badge/Glean-FF6B35?style=for-the-badge&logoColor=white" alt="Glean" />
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white" alt="Cursor" />
-<img src="https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=000000" alt="ServiceNow" />
-<img src="https://img.shields.io/badge/Workato-E74C3C?style=for-the-badge&logoColor=white" alt="Workato" />
-<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets" />
-<img src="https://img.shields.io/badge/Keeper-003366?style=for-the-badge&logoColor=white" alt="Keeper" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 
 </div>
 
----
-
-## 🚀 My Projects
+**⚛️ Frameworks & Libraries**
 
 <div align="center">
-<table>
-  <tr>
-    <td align="left" bgcolor="#161b22" width="300">
-      <br>
-      &nbsp;&nbsp;<strong>🎹 Void Piano</strong><br>
-      &nbsp;&nbsp;<sub>Web Piano Practice Tool</sub><br><br>
-      &nbsp;&nbsp;<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      <br><br>
-      &nbsp;&nbsp;<a href="https://guitarsetgo.itch.io/viodpiano"><img src="https://img.shields.io/badge/🔗 View Demo-238636?style=for-the-badge&logoColor=white"/></a>
-      <br><br>
-    </td>
-  </tr>
-</table>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+
+</div>
+
+**🤖 Artificial Intelligence**
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+<img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+<img src="https://img.shields.io/badge/Claude%20Sonnet-D4A27F?style=for-the-badge&logo=anthropic&logoColor=000000" alt="Claude Sonnet" />
+<img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+<img src="https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="NotebookLM" />
+<img src="https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google AI Studio" />
+<img src="https://img.shields.io/badge/Glean-FF6B35?style=for-the-badge&logoColor=white" alt="Glean" />
+<img src="https://img.shields.io/badge/Agentspace-0F9D58?style=for-the-badge&logo=google&logoColor=white" alt="Agentspace" />
+
+</div>
+
+**🛠️ Development Tools**
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white" alt="Cursor" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+
+</div>
+
+**📦 Platforms & Productivity**
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+<img src="https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=000000" alt="ServiceNow" />
+<img src="https://img.shields.io/badge/Workato-E74C3C?style=for-the-badge&logoColor=white" alt="Workato" />
+<img src="https://img.shields.io/badge/Keeper-003366?style=for-the-badge&logoColor=white" alt="Keeper" />
+<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets" />
+<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+
 </div>
 
 ---
@@ -76,20 +96,11 @@
 ## 🎵 My Music on Spotify
 
 <div align="center">
-<table>
-  <tr>
-    <td align="center" bgcolor="#1a5c2e" width="600">
-      <br>
-      <strong>🎧 Dash Gonzalez</strong><br>
-      <sub>Hit play and code along with me!</sub>
-      <br><br>
-      <a href="https://open.spotify.com/intl-es/artist/32k7vcjypkoIOQl9ZjsCYF">
-        <img src="https://img.shields.io/badge/Listen%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
-      </a>
-      <br><br>
-    </td>
-  </tr>
-</table>
+
+[![Spotify Artist](https://img.shields.io/badge/Listen%20to%20my%20music-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/intl-es/artist/32k7vcjypkoIOQl9ZjsCYF)
+
+> 🎧 **Dash Gonzalez** — Hit play and code along with me!
+
 </div>
 
 ---
