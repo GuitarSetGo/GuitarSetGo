@@ -12,7 +12,7 @@
 
 🚀 Passionate about software development, AI, and open source. I love building things that matter and learning something new every day.
 
-- 📍 **Location:** Guatemala
+- 📍 **Location:** Guatemala 🇬🇹
 - 💬 **Ask me about:** web development, AI, automation & technology
 - ⚡ **Fun fact:** The best code is the one that works at 3am ☕
 
@@ -53,20 +53,36 @@
 
 ## 🚀 My Projects
 
-| Project | Description | Tech Stack | Live Demo |
-|---|---|---|---|
-| **Void Piano** | Web Piano Practice Tool | HTML, CSS, JS | [🔗 View Demo](https://guitarsetgo.itch.io/viodpiano) |
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="400">
+      <h3>🎹 Void Piano</h3>
+      <p>Web Piano Practice Tool — play and learn piano directly in your browser.</p>
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <br><br>
+      <a href="https://guitarsetgo.itch.io/viodpiano">
+        <img src="https://img.shields.io/badge/🔗%20View%20Demo-FA5C5C?style=for-the-badge&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 
 ## 🎵 My Music on Spotify
 
 <div align="center">
-
-[![Spotify Artist](https://img.shields.io/badge/Listen%20to%20my%20music-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/intl-es/artist/32k7vcjypkoIOQl9ZjsCYF)
-
-<p>🎧 <strong>Dash Gonzalez</strong> — Hit play and code along with me!</p>
-
+<br>
+<a href="https://open.spotify.com/intl-es/artist/32k7vcjypkoIOQl9ZjsCYF">
+  <img src="https://img.shields.io/badge/🎧%20Dash%20Gonzalez%20—%20Listen%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+</a>
+<br><br>
+<img src="https://img.shields.io/badge/Hit%20play%20and%20code%20along%20with%20me!-191414?style=flat-square&logo=spotify&logoColor=1DB954"/>
+<br>
 </div>
 
 ---
