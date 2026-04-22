@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Joshua%20Gonzalez&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Multi-Stack%20Developer%20%7C%20Unity%20Game%20Dev%20&descAlignY=55&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Joshua%20Gonzalez&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Multi-Stack%20Developer%20%7C%20Musician%20%26%20Composer&descAlignY=55&descAlign=50" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Multi-Stack%20Developer%20%7C%20Unity%20Game%20Dev%20;Welcome%20to%20my%20GitHub!%20%F0%9F%9A%80;Always%20building%2C%20always%20learning%20%E2%9C%A8;Let's%20create%20something%20amazing!%20%F0%9F%92%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Multi-Stack%20Developer%20%7C%20Musician%20%26%20Composer;Welcome%20to%20my%20GitHub!%20%F0%9F%9A%80;Always%20building%2C%20always%20learning%20%E2%9C%A8;Let's%20create%20something%20amazing!%20%F0%9F%92%A1)](https://git.io/typing-svg)
 
 </div>
 
@@ -51,51 +51,26 @@
 
 ---
 
+## 🚀 My Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack | Live Demo |
+|---|---|---|---|
+| **name 1** | descrioption 1 |  | [🔗 View Demo](link) |
+| **name 2** | descrioption 3 |  | [🔗 View Demo](link) |
+
+</div>
+
+---
+
 ## 🎵 My Music on Spotify
 
 <div align="center">
 
 [![Spotify Artist](https://img.shields.io/badge/Listen%20to%20my%20music-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/intl-es/artist/32k7vcjypkoIOQl9ZjsCYF)
 
-> 🎧 **My Music Project** — Hit play and code along with me!
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=GuitarSetGo&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GuitarSetGo&theme=dark&hide_border=true" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuitarSetGo&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=GuitarSetGo&theme=dark&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophies" />
-
-</div>
-
----
-
-## 🐍 My Contributions
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuitarSetGo/GuitarSetGo/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuitarSetGo/GuitarSetGo/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/GuitarSetGo/GuitarSetGo/output/github-snake.svg" />
-</picture>
+> 🎧 **Dash Gonzalez** — Hit play and code along with me!
 
 </div>
 
