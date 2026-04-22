@@ -71,7 +71,8 @@
 
 **🎮 Save Our Souls** — GameJam Bubble Game &nbsp; [![](https://img.shields.io/badge/Try%20it-238636?style=flat-square&logoColor=white)](https://globalgamejam.org/games/2025/sos-save-our-souls-5)
 
-**🌐 [Project 3](https://url3.com)** — Short description here &nbsp; [![](https://img.shields.io/badge/View%20Demo-238636?style=flat-square&logoColor=white)](https://url3.com)
+**🎮 Song Chord Builder** — Full song structure builder &nbsp; [![](https://img.shields.io/badge/Try%20it-238636?style=flat-square&logoColor=white)](https://guitarsetgo.github.io/Song-Chord-Builder/))
+
 
 </div>
 
