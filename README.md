@@ -20,7 +20,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/s) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/s) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/s) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/s) [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@s) [![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://itch.io/profile/s)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josh4dev) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/guitarsetgo) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/guitarsetgo) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@GuitarSetGo) [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@guitarsetgo) [![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://itch.io/profile/guitarsetgo)
 
 </div>
 
@@ -33,18 +33,18 @@
 <img src="https://skillicons.dev/icons?i=js,cs,html,css,nextjs,nodejs,react,vscode,visualstudio,git,github,figma,notion,trello,unity&perline=10" />
 
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/Claude-D4A27F?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+<img src="https://img.shields.io/badge/Claude-D4A27F?style=for-the-badge&logo=anthropic&logoColor=000000" alt="Claude" />
 <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-<img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Copilot" />
+<img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Copilot" />
 <img src="https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="NotebookLM" />
+<img src="https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="AI Studio" />
+<img src="https://img.shields.io/badge/Agentspace-0F9D58?style=for-the-badge&logo=google&logoColor=white" alt="Agentspace" />
 <img src="https://img.shields.io/badge/Glean-FF6B35?style=for-the-badge&logoColor=white" alt="Glean" />
-<img src="https://img.shields.io/badge/Agentspace-0F9D58?style=for-the-badge&logoColor=white" alt="Agentspace" />
-<img src="https://img.shields.io/badge/AI+Studio-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="AI Studio" />
 <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white" alt="Cursor" />
-<img src="https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow" />
+<img src="https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=000000" alt="ServiceNow" />
 <img src="https://img.shields.io/badge/Workato-E74C3C?style=for-the-badge&logoColor=white" alt="Workato" />
-<img src="https://img.shields.io/badge/Google+Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="G. Sheets" />
+<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets" />
 <img src="https://img.shields.io/badge/Keeper-003366?style=for-the-badge&logoColor=white" alt="Keeper" />
 
 </div>
