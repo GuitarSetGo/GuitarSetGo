@@ -69,7 +69,7 @@
 
 **🎹 [Void Piano](https://guitarsetgo.itch.io/viodpiano)** — Web Piano Practice Tool &nbsp; [![](https://img.shields.io/badge/View%20Demo-238636?style=flat-square&logoColor=white)](https://guitarsetgo.itch.io/viodpiano)
 
-**🎮 [Project 2](https://url2.com)** — Short description here &nbsp; [![](https://img.shields.io/badge/View%20Demo-238636?style=flat-square&logoColor=white)](https://url2.com)
+**🎮 [Save Our Souls](https://globalgamejam.org/games/2025/sos-save-our-souls-5)** — GameJam Bubble Game &nbsp; [![](https://img.shields.io/badge/View%20Demo-238636?style=flat-square&logoColor=white)](https://url2.com)
 
 **🌐 [Project 3](https://url3.com)** — Short description here &nbsp; [![](https://img.shields.io/badge/View%20Demo-238636?style=flat-square&logoColor=white)](https://url3.com)
 
