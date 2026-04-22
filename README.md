@@ -32,6 +32,8 @@
 
 <img src="https://skillicons.dev/icons?i=unity,visualstudio,vscode,cs,html,js,css,nodejs,react,postman,gcp,notion,figma,discord&perline=7" />
 
+<br><br>
+
 <img src="https://img.shields.io/badge/ServiceNow-62D84E?style=flat-square&logo=servicenow&logoColor=000000" alt="ServiceNow" />
 <img src="https://img.shields.io/badge/Glean-FF6B35?style=flat-square&logoColor=white" alt="Glean" />
 <img src="https://img.shields.io/badge/Agentspace-0F9D58?style=flat-square&logo=google&logoColor=white" alt="Agentspace" />
@@ -42,9 +44,11 @@
 <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
 <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white" alt="DeepSeek" />
 <img src="https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google AI Studio" />
+<img src="https://img.shields.io/badge/NotebookLM-4285F4?style=flat-square&logo=google&logoColor=white" alt="NotebookLM" />
 <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=flat-square&logo=perplexity&logoColor=white" alt="Perplexity" />
 
 </div>
+
 ---
 
 ## 🚀 My Projects
