@@ -10,11 +10,24 @@
 
 ## 🙋‍♂️ About Me
 
-🚀 Passionate about software development, AI, and open source. I love building things that matter and learning something new every day.
+🚀 I started my dev journey building minimalist, clean front-end experiences —
+vanilla pages, pixel-perfect UI/UX — and grew from there into full-stack
+web development. Today I work as a SaaS Developer on the ServiceNow platform.
 
-- 📍 **Location:** Guatemala
-- 💬 **Ask me about:** web development, AI, automation & technology
-- ⚡ **Fun fact:** The best code is the one that works at 3am ☕
+Outside of work? I'm building my own games in Unity, composing songs as a guitarist,
+and staying on the edge of everything AI — integrating it into my workflow to
+ship faster and smarter every day.
+
+Tech & RPGs have been my thing since childhood. Some things never change. 🎮
+
+
+- 💬 **Ask me about:** ServiceNow & SaaS development, UI/UX design,
+AI tools & workflow automation, Unity game development,
+web development, music production with Ableton
+
+- ⚡ **Fun fact:** I'm a guitarist who writes code and a developer who composes songs —
+turns out creativity and logic aren't that different after all. 🎸💻
+
 
 ## 🌐 Connect With Me
 
