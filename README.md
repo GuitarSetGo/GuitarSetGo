@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Joshua%20Gonzalez&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Joshua%20Gonzalez&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Multi-Stack%20Dev%20%7C%20%F0%9F%92%BB%20%E2%98%81%EF%B8%8F%20%F0%9F%8E%AE%20%7C%20%F0%9F%8E%B8%20%F0%9F%8E%BC%20%F0%9F%8E%A7&descAlignY=55&descAlign=50" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast;Welcome%20to%20my%20GitHub!%20%F0%9F%9A%80;Always%20building%2C%20always%20learning%20%E2%9C%A8;Let's%20create%20something%20amazing!%20%F0%9F%92%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Multi-Stack%20Dev%20%7C%20%F0%9F%92%BB%20%E2%98%81%EF%B8%8F%20%F0%9F%8E%AE%20%7C%20%F0%9F%8E%B8%20%F0%9F%8E%BC%20%F0%9F%8E%A7;Welcome%20to%20my%20GitHub!%20%F0%9F%9A%80;Always%20building%2C%20always%20learning%20%E2%9C%A8;Let's%20create%20something%20amazing!%20%F0%9F%92%A1)](https://git.io/typing-svg)
 
 </div>
 
