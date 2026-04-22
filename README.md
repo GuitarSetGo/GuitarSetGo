@@ -63,15 +63,50 @@
 
 ---
 
+## 🚀 My Projects
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="300">
+      <br>
+      <a href="https://guitarsetgo.itch.io/viodpiano">
+        <img src="https://img.shields.io/badge/🎹%20Void%20Piano-1f6feb?style=for-the-badge&logoColor=white" width="220"/>
+      </a>
+      <br><br>
+      <sub>Web Piano Practice Tool</sub>
+      <br><br>
+      <a href="https://guitarsetgo.itch.io/viodpiano">
+        <img src="https://img.shields.io/badge/🔗%20View%20Demo-238636?style=flat-square&logoColor=white"/>
+      </a>
+      <br><br>
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
 ## 🎵 My Music on Spotify
 
 <div align="center">
-
-[![Spotify Artist](https://img.shields.io/badge/Listen%20to%20my%20music-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/intl-es/artist/32k7vcjypkoIOQl9ZjsCYF)
-
-> 🎧 **Dash Gonzalez** — Hit play and code along with me!
-
+<table>
+  <tr>
+    <td align="center" width="500">
+      <br>
+      <img src="https://img.shields.io/badge/🎧%20Dash%20Gonzalez-1DB954?style=for-the-badge&logo=spotify&logoColor=white" width="300"/>
+      <br><br>
+      <sub>Hit play and code along with me!</sub>
+      <br><br>
+      <a href="https://open.spotify.com/intl-es/artist/32k7vcjypkoIOQl9ZjsCYF">
+        <img src="https://img.shields.io/badge/Listen%20on%20Spotify-191414?style=for-the-badge&logo=spotify&logoColor=1DB954"/>
+      </a>
+      <br><br>
+    </td>
+  </tr>
+</table>
 </div>
+
 
 ---
 
