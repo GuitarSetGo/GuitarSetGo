@@ -65,22 +65,29 @@
 
 ## 🚀 My Projects
 
+<!-- ── ADD MORE PROJECTS: copy one <td> block and paste it next to the others ── -->
 <div align="center">
 <table>
   <tr>
-    <td align="center" width="300">
+
+    <td align="center" width="250">
+      <a href="https://guitarsetgo.itch.io/viodpiano"><strong>🎹 Void Piano</strong></a>
       <br>
-      <a href="https://guitarsetgo.itch.io/viodpiano">
-        <img src="https://img.shields.io/badge/🎹%20Void%20Piano-1f6feb?style=for-the-badge&logoColor=white" width="220"/>
-      </a>
-      <br><br>
       <sub>Web Piano Practice Tool</sub>
       <br><br>
-      <a href="https://guitarsetgo.itch.io/viodpiano">
-        <img src="https://img.shields.io/badge/🔗%20View%20Demo-238636?style=flat-square&logoColor=white"/>
-      </a>
-      <br><br>
+      <a href="https://guitarsetgo.itch.io/viodpiano"><img src="https://img.shields.io/badge/View%20Demo-238636?style=flat-square&logoColor=white"/></a>
     </td>
+
+    <!-- PASTE NEW PROJECT HERE ↓
+    <td align="center" width="250">
+      <a href="URL"><strong>EMOJI Name</strong></a>
+      <br>
+      <sub>Short description</sub>
+      <br><br>
+      <a href="URL"><img src="https://img.shields.io/badge/View%20Demo-238636?style=flat-square&logoColor=white"/></a>
+    </td>
+    -->
+
   </tr>
 </table>
 </div>
@@ -90,23 +97,10 @@
 ## 🎵 My Music on Spotify
 
 <div align="center">
-<table>
-  <tr>
-    <td align="center" width="500">
-      <br>
-      <img src="https://img.shields.io/badge/🎧%20Dash%20Gonzalez-1DB954?style=for-the-badge&logo=spotify&logoColor=white" width="300"/>
-      <br><br>
-      <sub>Hit play and code along with me!</sub>
-      <br><br>
-      <a href="https://open.spotify.com/intl-es/artist/32k7vcjypkoIOQl9ZjsCYF">
-        <img src="https://img.shields.io/badge/Listen%20on%20Spotify-191414?style=for-the-badge&logo=spotify&logoColor=1DB954"/>
-      </a>
-      <br><br>
-    </td>
-  </tr>
-</table>
-</div>
 
+[![Dash Gonzalez on Spotify](https://img.shields.io/badge/Dash%20Gonzalez-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/intl-es/artist/32k7vcjypkoIOQl9ZjsCYF)
+
+</div>
 
 ---
 
