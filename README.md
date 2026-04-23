@@ -74,6 +74,7 @@ turns out creativity and logic aren't that different after all. 🎸💻
 
 **🎼 Song Chord Builder** — Full song structure builder &nbsp; [![](https://img.shields.io/badge/Try%20it-238636?style=flat-square&logoColor=white)](https://guitarsetgo.github.io/Song-Chord-Builder/)
 
+<img width="315" height="250" alt="image" src="https://github.com/user-attachments/assets/61e4c788-5580-48ac-9f46-9319f34e3552" />
 
 </div>
 
