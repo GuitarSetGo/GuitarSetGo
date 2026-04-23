@@ -76,6 +76,8 @@ turns out creativity and logic aren't that different after all. 🎸💻
 
 <img width="315" height="250" alt="image" src="https://github.com/user-attachments/assets/a5cb9ba1-486c-47c4-9846-2bec62a7253e" />
 <img width="315" height="250" alt="image" src="https://github.com/user-attachments/assets/61e4c788-5580-48ac-9f46-9319f34e3552" />
+<img width="347" height="231" alt="image" src="https://github.com/user-attachments/assets/e31cab61-0fa4-4a56-aaf5-031559855204" />
+
 
 </div>
 
