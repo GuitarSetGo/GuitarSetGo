@@ -68,12 +68,6 @@ turns out creativity and logic aren't that different after all. 🎸💻
 
 <div align="center">
 
-**🎹 Void Piano** — Web Piano Practice Tool &nbsp; [![](https://img.shields.io/badge/Try%20it-238636?style=flat-square&logoColor=white)](https://guitarsetgo.itch.io/viodpiano)
-
-**🎮 Save Our Souls** — GameJam Bubble Game &nbsp; [![](https://img.shields.io/badge/Try%20it-238636?style=flat-square&logoColor=white)](https://globalgamejam.org/games/2025/sos-save-our-souls-5)
-
-**🎼 Song Chord Builder** — Full song structure builder &nbsp; [![](https://img.shields.io/badge/Try%20it-238636?style=flat-square&logoColor=white)](https://guitarsetgo.github.io/Song-Chord-Builder/)
-
 <table>
   <tr>
     <td align="center" width="33%">
