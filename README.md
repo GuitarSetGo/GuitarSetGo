@@ -71,17 +71,17 @@ turns out creativity and logic aren't that different after all. 🎸💻
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://TU-LINK-1.com">
+      <a href="https://guitarsetgo.itch.io/viodpiano">
         <img width="315" height="250" alt="Proyecto 1" src="https://github.com/user-attachments/assets/a5cb9ba1-486c-47c4-9846-2bec62a7253e" />
       </a>
     </td>
     <td align="center" width="33%">
-      <a href="https://TU-LINK-2.com">
+      <a href="https://guitarsetgo.itch.io/fretboard-invaders">
         <img width="315" height="250" alt="Proyecto 2" src="https://github.com/user-attachments/assets/61e4c788-5580-48ac-9f46-9319f34e3552" />
       </a>
     </td>
     <td align="center" width="33%">
-      <a href="https://TU-LINK-3.com">
+      <a href="https://globalgamejam.org/games/2025/sos-save-our-souls-5">
         <img width="347" height="231" alt="Proyecto 3" src="https://github.com/user-attachments/assets/e31cab61-0fa4-4a56-aaf5-031559855204" />
       </a>
     </td>
