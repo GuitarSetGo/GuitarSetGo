@@ -11,54 +11,28 @@
 <div align="left">
   <div style="background-color: #1e1e1e; color: #d4d4d4; border-radius: 4px; font-family: Consolas, 'Lucida Console', monospace; max-width: 650px; border: 1px solid #3e3e42; overflow: hidden; box-shadow: 0 10px 20px rgba(0,0,0,0.3);">
 
-    <div style="background-color: #2d2d2d; border-bottom: 1px solid #3f3f46;">
-      <span style="display: inline-block; background-color: #1e1e1e; color: #fff; padding: 10px 20px; border-top: 2px solid #007acc; font-size: 12px;">
-        <span style="color: #007acc; font-weight: bold;">#</span> AboutMe.cs
-      </span>
-    </div>
+## 🙋‍♂️ About Me
 
-    <table style="width: 100%; border-collapse: collapse; margin: 0; line-height: 1.6; font-size: 13px;">
-      <tr>
-        <td style="color: #858585; text-align: right; padding: 20px 20px 20px 15px; border-right: 1px solid #333; vertical-align: top; white-space: nowrap; width: 1%;">
-          1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>10<br>11<br>12<br>13<br>14<br>15<br>16<br>17<br>18<br>19<br>20<br>21<br>22<br>23<br>24<br>25
-        </td>
-        <td style="padding: 20px; vertical-align: top;">
-          <span style="color: #569cd6;">namespace</span> <span style="color: #b4b4b4;">Joshua.Gonzalez</span><br>
-          {<br>
-          &nbsp;&nbsp;<span style="color: #6a9955;">/// &lt;summary&gt;</span><br>
-          &nbsp;&nbsp;<span style="color: #6a9955;">/// Full Stack Dev | SaaS | Game Dev | Guitarist</span><br>
-          &nbsp;&nbsp;<span style="color: #6a9955;">/// &lt;/summary&gt;</span><br>
-          &nbsp;&nbsp;<span style="color: #569cd6;">public class</span> <span style="color: #4ec9b0;">AboutMe</span><br>
-          &nbsp;&nbsp;{<br>
-          &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #6a9955;">// Started with front-end → grew into full-stack → now on ServiceNow 🚀</span><br>
-          &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #6a9955;">// Side quests: Unity 🎮 · Guitar 🎸 · AI tools 🤖</span><br>
-          <br>
-          &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #569cd6;">public string</span>[] <span style="color: #dcdcaa;">Role</span> =&gt; <span style="color: #569cd6;">new</span>[] { <span style="color: #ce9178;">"SaaS Developer"</span>, <span style="color: #ce9178;">"ServiceNow"</span> };<br>
-          &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #569cd6;">public string</span>[] <span style="color: #dcdcaa;">SideQuests</span> =&gt; <span style="color: #569cd6;">new</span>[] { <span style="color: #ce9178;">"Unity"</span>, <span style="color: #ce9178;">"Guitar"</span>, <span style="color: #ce9178;">"AI"</span> };<br>
-          <br>
-          &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #569cd6;">public string</span>[] <span style="color: #dcdcaa;">AskMeAbout</span> =&gt; <span style="color: #569cd6;">new</span>[]<br>
-          &nbsp;&nbsp;&nbsp;&nbsp;{<br>
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #ce9178;">"ServiceNow"</span>, <span style="color: #ce9178;">"UI/UX"</span>, <span style="color: #ce9178;">"AI Workflow"</span>,<br>
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #ce9178;">"Unity"</span>, <span style="color: #ce9178;">"Web Dev"</span>, <span style="color: #ce9178;">"Ableton"</span><br>
-          &nbsp;&nbsp;&nbsp;&nbsp;};<br>
-          <br>
-          &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #569cd6;">public bool</span> <span style="color: #dcdcaa;">RPGsSinceChildhood</span> =&gt; <span style="color: #569cd6;">true</span>; <span style="color: #6a9955;">// Some things never change 🎮</span><br>
-          <br>
-          &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #569cd6;">public string</span> <span style="color: #dcdcaa;">FunFact</span> =&gt;<br>
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #ce9178;">"Guitarist who codes &amp; dev who composes 🎸💻"</span>;<br>
-          &nbsp;&nbsp;}<br>
-          }
-        </td>
-      </tr>
-    </table>
+🚀 I started my dev journey building minimalist, clean front-end experiences —
+vanilla pages, pixel-perfect UI/UX — and grew from there into full-stack
+web development. Today I work as a SaaS Developer on the ServiceNow platform.
 
-    <div style="background-color: #007acc; color: #fff; padding: 4px 15px; font-size: 11px;">
-      Ready
-    </div>
+Outside of work? I'm building my own games in Unity, composing songs as a guitarist,
+and staying on the edge of everything AI — integrating it into my workflow to
+ship faster and smarter every day.
+
+Tech & RPGs have been my thing since childhood. Some things never change. 🎮
+
+
+- 💬 **Ask me about:** ServiceNow & SaaS development, UI/UX design,
+AI tools & workflow automation, Unity game development,
+web development, music production with Ableton
+
+- ⚡ **Fun fact:** I'm a guitarist who writes code and a developer who composes songs —
+turns out creativity and logic aren't that different after all. 🎸💻
 
   </div>
 </div>
-
 
 
 
