@@ -11,25 +11,8 @@
 <div align="left">
   <div style="background-color: #1e1e1e; color: #d4d4d4; border-radius: 4px; font-family: Consolas, 'Lucida Console', monospace; max-width: 650px; border: 1px solid #3e3e42; overflow: hidden; box-shadow: 0 10px 20px rgba(0,0,0,0.3);">
 
-## 🙋‍♂️ About Me
+<img width="652" height="641" alt="image" src="https://github.com/user-attachments/assets/37e91d20-45d7-4a69-ad01-cb23b441c25e" />
 
-🚀 I started my dev journey building minimalist, clean front-end experiences —
-vanilla pages, pixel-perfect UI/UX — and grew from there into full-stack
-web development. Today I work as a SaaS Developer on the ServiceNow platform.
-
-Outside of work? I'm building my own games in Unity, composing songs as a guitarist,
-and staying on the edge of everything AI — integrating it into my workflow to
-ship faster and smarter every day.
-
-Tech & RPGs have been my thing since childhood. Some things never change. 🎮
-
-
-- 💬 **Ask me about:** ServiceNow & SaaS development, UI/UX design,
-AI tools & workflow automation, Unity game development,
-web development, music production with Ableton
-
-- ⚡ **Fun fact:** I'm a guitarist who writes code and a developer who composes songs —
-turns out creativity and logic aren't that different after all. 🎸💻
 
   </div>
 </div>
