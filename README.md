@@ -8,7 +8,7 @@
 
 ---
 
-<div align="left">
+<div align="center">
   <div style="background-color: #1e1e1e; color: #d4d4d4; border-radius: 4px; font-family: Consolas, 'Lucida Console', monospace; max-width: 650px; border: 1px solid #3e3e42; overflow: hidden; box-shadow: 0 10px 20px rgba(0,0,0,0.3);">
 
 <img width="652" height="641" alt="image" src="https://github.com/user-attachments/assets/37e91d20-45d7-4a69-ad01-cb23b441c25e" />
