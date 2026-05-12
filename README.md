@@ -72,7 +72,7 @@
       </a>
     </td>
     <td align="center" width="33%">
-      <a href="https://globalgamejam.org/games/2025/sos-save-our-souls-5">
+      <a href="https://guitarsetgo.itch.io/sos">
         <img width="347" height="231" alt="Proyecto 3" src="https://github.com/user-attachments/assets/e31cab61-0fa4-4a56-aaf5-031559855204" />
       </a>
     </td>
