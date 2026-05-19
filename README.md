@@ -55,7 +55,7 @@
 
 ---
 
-## 🚀 My Projects
+## 🚀 My Games
 
 <div align="center">
 
