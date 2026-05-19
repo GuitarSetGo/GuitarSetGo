@@ -79,11 +79,43 @@
   </tr>
 </table>
 
+</div>
 
+---
+
+## 🛠️ My Projects
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <b>🎵 Song Chord Builder</b><br>
+      <sub>Music Tool</sub><br>
+      <a href="https://guitarsetgo.github.io/Song-Chord-Builder/">Live →</a>
+    </td>
+    <td align="center">
+      <b>🎵 Metronome Pro V2</b><br>
+      <sub>Music Tool</sub><br>
+      <a href="https://guitarsetgo.github.io/Metronome-Pro-V2/">Live →</a>
+    </td>
+    <td align="center">
+      <b>🎵 Scale Generator V2</b><br>
+      <sub>Music Tool</sub><br>
+      <a href="https://guitarsetgo.github.io/Scale-Generator-V2/">Live →</a>
+    </td>
+    <td align="center">
+      <b>🛠️ Snippet Creator</b><br>
+      <sub>Dev Tool</sub><br>
+      <a href="https://guitarsetgo.github.io/Snippet-Creator/">Live →</a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
+
 
 ## 🎵 My Music on Spotify
 
